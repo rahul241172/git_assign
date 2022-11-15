@@ -8,5 +8,5 @@ factors++
 }
 if(factors==2){
 console.log("Prime)
-}else{
+}else
 console.log("Not Prime")
